@@ -1,0 +1,7 @@
+Ruta Gastronómica Llanquihue;Llanquihue;45000;Mateo Soto;+56981234567;Sur Austral Tours;Llanquihue;+56971112233
+Navegación Lago Llanquihue;Puerto Varas;55000;Mateo Soto;+56981234567;Sur Austral Tours;Llanquihue;+56971112233
+Excursión Saltos del Petrohué;Cochamó;38000;Camila Mansilla;+56984567890;Andes Patagónicos;Puerto Varas;+56974445566
+Tour Cultural Frutillar;Frutillar;42000;Esteban Andrade;+56987654321;Rutas del Sur;Frutillar;+56978889900
+Ascenso Mirador Volcán Osorno;Ensenada;65000;Camila Mansilla;+56984567890;Andes Patagónicos;Puerto Varas;+56974445566
+Tour Nocturno Costanera;Puerto Montt;gratis;Mateo Soto;+56981234567;Sur Austral Tours;Llanquihue;+56971112233
+Caminata Parque Nacional;Llanquihue;30000;Esteban Andrade;+56987654321;Rutas del Sur
